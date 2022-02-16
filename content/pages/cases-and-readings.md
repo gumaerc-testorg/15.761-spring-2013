@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Cases and Readings
 uid: 4c070244-e7f9-87c1-0842-df21dac40786
 ---

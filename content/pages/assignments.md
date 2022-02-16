@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: c8369e17-a855-deb6-7676-690f6e1a2a2b
 ---
@@ -17,7 +20,7 @@ The purpose of these assignments is to support your thinking about primarily qua
 "Deep" Case Analyses
 --------------------
 
-These two write-ups (**choose two from PATA, HP-DeskJet, and Sport Obermeyer**) should contain your answers to the specific preparation questions for the corresponding cases (see the [Case Preparation Questions](http://ocw2.mit.edu/courses/sloan-school-of-management/15-761-introduction-to-operations-management-spring-2013/case-preparation-questions/) section). In preparing for these assignments, please adhere to the following guidelines:
+These two write-ups (**choose two from PATA, HP-DeskJet, and Sport Obermeyer**) should contain your answers to the specific preparation questions for the corresponding cases (see the [Case Preparation Questions]({{< baseurl >}}/pages/case-preparation-questions) section). In preparing for these assignments, please adhere to the following guidelines:
 
 1.  Work in teams of at most 3 students. This is a firm constraint, no exceptions.
 2.  Written assignments are to be turned in at the beginning of class on the due date assigned.
