@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the simulation exercises used in this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Simulation Exercises

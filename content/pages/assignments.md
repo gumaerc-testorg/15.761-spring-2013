@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the assignments for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -10,7 +11,7 @@ uid: c8369e17-a855-deb6-7676-690f6e1a2a2b
 "Quick" Case Analyses
 ---------------------
 
-The purpose of these assignments is to support your thinking about primarily qualitative issues raised in the course. These three write-ups (**choose three from CVS, Toyota, Zara/M&S, Amazon, European Recycling, Hank Kolb, Katrina, Break.com, Barilla**) should provide a point of view as to what some protagonist in the case should do given the situation faced. These write-ups should be in the form of a one-page memo (single spaced, max font of 12) and contain your opinions, based on reasoned analysis addressing issues raised by the preparation questions (see the [Case Preparation Questions]({{< baseurl >}}/pages/case-preparation-questions) section). Please **DO NOT** answer these questions directly. Rather, use these questions to help guide your thinking as to what issues may be relevant in the case. Quantitative or numerical analyses **ARE NOT EXPECTED** in these quick case analyses, although they are not discouraged either. In preparing for these assignments, please adhere to the following guidelines:
+The purpose of these assignments is to support your thinking about primarily qualitative issues raised in the course. These three write-ups (**choose three from CVS, Toyota, Zara/M&S, Amazon, European Recycling, Hank Kolb, Katrina, Break.com, Barilla**) should provide a point of view as to what some protagonist in the case should do given the situation faced. These write-ups should be in the form of a one-page memo (single spaced, max font of 12) and contain your opinions, based on reasoned analysis addressing issues raised by the preparation questions (see the {{% resource_link 4e41b758-de6f-7e7b-8acd-063dc70e9edd "Case Preparation Questions" %}} section). Please **DO NOT** answer these questions directly. Rather, use these questions to help guide your thinking as to what issues may be relevant in the case. Quantitative or numerical analyses **ARE NOT EXPECTED** in these quick case analyses, although they are not discouraged either. In preparing for these assignments, please adhere to the following guidelines:
 
 1.  Work as an individual on these assignments. This is a firm constraint, no exceptions.
 2.  Written assignments are to be turned in at the beginning of class on the due date assigned.
@@ -20,7 +21,7 @@ The purpose of these assignments is to support your thinking about primarily qua
 "Deep" Case Analyses
 --------------------
 
-These two write-ups (**choose two from PATA, HP-DeskJet, and Sport Obermeyer**) should contain your answers to the specific preparation questions for the corresponding cases (see the [Case Preparation Questions]({{< baseurl >}}/pages/case-preparation-questions) section). In preparing for these assignments, please adhere to the following guidelines:
+These two write-ups (**choose two from PATA, HP-DeskJet, and Sport Obermeyer**) should contain your answers to the specific preparation questions for the corresponding cases (see the {{% resource_link 4e41b758-de6f-7e7b-8acd-063dc70e9edd "Case Preparation Questions" %}} section). In preparing for these assignments, please adhere to the following guidelines:
 
 1.  Work in teams of at most 3 students. This is a firm constraint, no exceptions.
 2.  Written assignments are to be turned in at the beginning of class on the due date assigned.

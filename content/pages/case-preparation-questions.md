@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: "This section contains the preparation questions to be utilized for the\
+  \ \u201Cquick\u201D and \u201Cdeep\u201D case analyses."
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Preparation Questions
@@ -257,7 +259,7 @@ Rosegrant, Susan, and Dutch Leonard. "[Wal-Mart's Response to Hurricane Katrina:
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Roels, Guillaume, and Tyler Skowrup. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
+Roels, Guillaume, and Tyler Skowrup. ["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
 {{< tdclose >}}
 {{< tdopen >}}
 
