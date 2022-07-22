@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the cases and readings for each
+  session of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Cases and Readings
 uid: 4c070244-e7f9-87c1-0842-df21dac40786
 ---
@@ -436,7 +440,7 @@ Revenue management II + Break.com case
 
 ### Case
 
-Roels, Guillaume, and Tyler Skowrup. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
+Roels, Guillaume, and Tyler Skowrup. ["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
 
 
 {{< tdclose >}}

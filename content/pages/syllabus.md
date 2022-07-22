@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides information on course objectives, meeting
+  times, prerequisites, academic integrity, team and individual work, and grading
+  and assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e6b0c93a-b655-4c12-10be-c497a67645b7
 ---
@@ -14,7 +19,7 @@ Tutorials: Approximately 2 sessions / month, 1.5 hours / session
 Prerequisites
 -------------
 
-[_15.060 Data, Models, and Decisions_](/courses/15-060-data-models-and-decisions-fall-2014/); [_6.041 Probabilistic Systems Analysis_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010/); or permission of the instructor.
+[_15.060 Data, Models, and Decisions_](/courses/15-060-data-models-and-decisions-fall-2014); [_6.041 Probabilistic Systems Analysis_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-fall-2010); or permission of the instructor.
 
 Course Objective
 ----------------

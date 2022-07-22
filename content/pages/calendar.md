@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and key dates for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: aefee891-6cb9-63b2-0502-9a0311932508
 ---
 
-Note: The due dates for the "quick" and "deep" case analyses only apply if a student chooses to write about the case discussed in that session. See the [Assignments]({{< baseurl >}}/pages/assignments) section for further details.
+Note: The due dates for the "quick" and "deep" case analyses only apply if a student chooses to write about the case discussed in that session. See the {{% resource_link c8369e17-a855-deb6-7676-690f6e1a2a2b "Assignments" %}} section for further details.
 
 {{< tableopen >}}
 {{< theadopen >}}
