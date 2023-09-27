@@ -19,8 +19,6 @@
   "instructors": {
     "content": [
       "284bc262-a1df-8a5b-6f48-64f0ae21244f",
-      "37354758-4b05-1628-8a4f-d370c0926baa",
-      "9b21ec38-d081-198b-1944-bfc470e637fc",
       "70dea363-141a-e2a7-97d3-a7dc46d1962d"
     ],
     "website": "ocw-www"
@@ -41,6 +39,7 @@
     "website": "15-761-introduction-to-operations-management-spring-2013"
   },
   "learning_resource_types": [],
-  "site_uid": "d76c0807-1309-446a-81a8-f968936fe8bc",
+  "site_uid": "e587189c-4781-49fc-a773-889ad9f67c70",
+  "site_short_id": "15.761-spring-2013",
   "title": "Course Metadata"
 }
