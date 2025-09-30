@@ -20,9 +20,9 @@ QUESTIONS
 2
 {{< tdclose >}}{{< tdopen >}}
 
-Sasser, Jr., W. Earl, et al. "[McDonald's Corp. (Condensed)](http://www.hbs.edu/faculty/Pages/item.aspx?num=21045)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-044, December 1, 1980.
+Sasser, Jr., W. Earl, et al. "{{% resource_link "a99f762f-778f-40c6-a063-1dc4c7c1c491" "McDonald's Corp. (Condensed)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-044, December 1, 1980.
 
-———. "[Burger King Corp](http://www.hbs.edu/faculty/Pages/item.aspx?num=21047)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-045, December 1, 1980.
+———. "{{% resource_link "1e3f2750-0e02-452e-a570-59dcdcdd2ee1" "Burger King Corp" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-045, December 1, 1980.
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -33,7 +33,7 @@ Sasser, Jr., W. Earl, et al. "[McDonald's Corp. (Condensed)](http://www.hbs.edu/
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-McAfee, Andrew. "[Pharmacy Service Improvement at CVS (A)](http://hbr.org/product/pharmacy-service-improvement-at-cvs-a/an/606015-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-606-015, December 14, 2005.
+McAfee, Andrew. "{{% resource_link "55ccdb53-fe08-4ae8-891d-968f5c68b30c" "Pharmacy Service Improvement at CVS (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-606-015, December 14, 2005.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What is your diagnosis of the problems with the CVS pharmacy fulfillment process?
@@ -46,7 +46,7 @@ McAfee, Andrew. "[Pharmacy Service Improvement at CVS (A)](http://hbr.org/produc
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
-McCarty, Kelsey, Jérémie Gallien, et al. "[Massachusetts General Hospital's Pre-admission Testing Area (PATA).](https://mitsloan.mit.edu/LearningEdge/operations-management/PATA/Pages/default.aspx)" MIT Sloan Case. MIT Sloan School of Management. Case: 11-116, January 3, 2012.
+McCarty, Kelsey, Jérémie Gallien, et al. "{{% resource_link "dc4d1aa0-2886-44fc-bf51-98d2d2e2eacd" "Massachusetts General Hospital's Pre-admission Testing Area (PATA)." %}}" MIT Sloan Case. MIT Sloan School of Management. Case: 11-116, January 3, 2012.
 {{< tdclose >}}{{< tdopen >}}
 
 1. Construct a process flow diagram of the PATA visit from a patient's perspective. Calculate the capacity and utilization rate at each step in the process.
@@ -58,7 +58,7 @@ McCarty, Kelsey, Jérémie Gallien, et al. "[Massachusetts General Hospital's Pr
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Kopczak, Laura Rock, and Hau Lee. "[Hewlett-Packard Co.: DeskJet Printer Supply Chain (A)](http://www.thecasesolutions.com/hewlett-packard-co-deskjet-printer-supply-chain-a-13494)." Stanford Graduate School of Business Case. Case: GS-3A, March 8, 2004.
+Kopczak, Laura Rock, and Hau Lee. "{{% resource_link "38077157-202a-4509-995d-2a130557b4bb" "Hewlett-Packard Co.: DeskJet Printer Supply Chain (A)" %}}." Stanford Graduate School of Business Case. Case: GS-3A, March 8, 2004.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What are the main causes of the inventory/service crisis described in the case?
@@ -70,7 +70,7 @@ Kopczak, Laura Rock, and Hau Lee. "[Hewlett-Packard Co.: DeskJet Printer Supply 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
-Hammond, Janice H., and Ananth Raman. "[Sport Obermeyer Ltd.](http://hbr.org/product/sport-obermeyer-ltd/an/695022-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-695-022, October 13, 1994.
+Hammond, Janice H., and Ananth Raman. "{{% resource_link "83afdc36-f2e5-43f1-9ddd-fd282a4e070a" "Sport Obermeyer Ltd." %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-695-022, October 13, 1994.
 {{< tdclose >}}{{< tdopen >}}
 
 1. Using the sample data given in Exhibit 10, make a quantitative recommendation for how many units of each style Wally should make during the initial phase of production. Assume that all of the ten styles in the sample problem are made in Hong Kong (minimum order quantity 600 units per style, provided any quantity of a style is ordered), and that Wally's initial production commitment must be at least 10,000 units because of capacity constraints later in the season.
@@ -82,7 +82,7 @@ Hammond, Janice H., and Ananth Raman. "[Sport Obermeyer Ltd.](http://hbr.org/pro
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Mishina, Kazuhiro. "[Toyota Motor Manufacturing, U.S.A., Inc.](http://hbr.org/product/toyota-motor-manufacturing-u-s-a-inc/an/693019-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-693-019, September 8, 1992.
+Mishina, Kazuhiro. "{{% resource_link "ca446e59-15ef-4c58-874a-d407c1858ce1" "Toyota Motor Manufacturing, U.S.A., Inc." %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-693-019, September 8, 1992.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What are the principles and components of the Toyota Production System?
@@ -103,7 +103,7 @@ Pich, Michael, Ludo Van der Heyden, et al. "Marks & Spencer and Zara: Process Co
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 13
 {{< tdclose >}}{{< tdopen >}}
-Hammond, Janice H., and Claire Chiron. "[Amazon.com's European Distribution Strategy](http://hbr.org/product/amazon-com-s-european-distribution-strategy/an/605002-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-605-002, June 30, 2005.
+Hammond, Janice H., and Claire Chiron. "{{% resource_link "160d52c4-f13f-4ea2-951b-dfa5bd9f4706" "Amazon.com's European Distribution Strategy" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-605-002, June 30, 2005.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What are the key factors that influence the design of Amazon's U.S. distribution network?
@@ -121,7 +121,7 @@ What are the pros and cons of each of these strategies? What are the benefits an
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Lee, Hau, and Maria Shao. "[The European Recycling Platform: Promoting Competition in E-waste Recycling](http://hbr.org/product/the-european-recycling-platform-promoting-competit/an/GS67-PDF-ENG)." Stanford Graduate School of Business Case. Case: G-S67, August 28, 2009.
+Lee, Hau, and Maria Shao. "{{% resource_link "bd7637db-8219-4379-8abc-a6f37e693ab5" "The European Recycling Platform: Promoting Competition in E-waste Recycling" %}}." Stanford Graduate School of Business Case. Case: G-S67, August 28, 2009.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What are the deficiencies of the national consortium model for recycling, such as the Green Dot system?
@@ -132,7 +132,7 @@ Lee, Hau, and Maria Shao. "[The European Recycling Platform: Promoting Competiti
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
-Leonard, Frank S. "[Hank Kolb, Director, Quality Assurance](http://hbr.org/product/hank-kolb-director-quality-assurance/an/681083-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981.
+Leonard, Frank S. "{{% resource_link "70bd6ac3-3bf1-43df-b0f3-c04c50ed98ab" "Hank Kolb, Director, Quality Assurance" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-681-083, March 1, 1981.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What are the causes of the quality problems on the Greasex line?
@@ -142,7 +142,7 @@ Leonard, Frank S. "[Hank Kolb, Director, Quality Assurance](http://hbr.org/produ
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Rosegrant, Susan, and Dutch Leonard. "[Wal-Mart's Response to Hurricane Katrina: Striving for a Public-Private Partnership](http://hbr.org/product/wal-mart-s-response-to-hurricane-katrina-striving-for-a-public-private-partnership/an/HKS150-PDF-ENG)." Harvard Kennedy School Case. Harvard Business School Publishing. Case: 1876.0, August 28, 2007.
+Rosegrant, Susan, and Dutch Leonard. "{{% resource_link "325ea8a3-1aa4-437c-97d3-590f44c91af5" "Wal-Mart's Response to Hurricane Katrina: Striving for a Public-Private Partnership" %}}." Harvard Kennedy School Case. Harvard Business School Publishing. Case: 1876.0, August 28, 2007.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What operations capabilities and resources has Wal-Mart developed that were valuable for emergency response?
@@ -153,7 +153,7 @@ Rosegrant, Susan, and Dutch Leonard. "[Wal-Mart's Response to Hurricane Katrina:
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
 {{< tdclose >}}{{< tdopen >}}
-Roels, Guillaume, and Tyler Skowrup. ["Break.com." (PDF)](http://www.anderson.ucla.edu/documents/areas/fac/dotm/bio/pdf_GR07.pdf) UCLA Anderson School of Management Case. UCLA. October 2008.
+Roels, Guillaume, and Tyler Skowrup. {{% resource_link "73cd5a11-9628-485c-a48d-5bd85877497e" "\"Break.com.\" (PDF)" %}} UCLA Anderson School of Management Case. UCLA. October 2008.
 {{< tdclose >}}{{< tdopen >}}
 
 1. Flowchart the information supply chain in the online advertising industry. What is Break.com's value proposition?
@@ -164,7 +164,7 @@ Roels, Guillaume, and Tyler Skowrup. ["Break.com." (PDF)](http://www.anderson.uc
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Hammond, Janice H. "[Barilla SpA (A)](http://hbr.org/product/barilla-spa-a/an/694046-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-046, May 17, 1994.
+Hammond, Janice H. "{{% resource_link "abc77a7f-d355-42aa-87cf-bfb154817d0f" "Barilla SpA (A)" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-694-046, May 17, 1994.
 {{< tdclose >}}{{< tdopen >}}
 
 1. What problem was Just-In-Time Distribution (JITD) designed to solve? What are its underlying causes?
